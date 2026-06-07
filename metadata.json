@@ -1,0 +1,6 @@
+{
+  "name": "ROOT-TECH",
+  "description": "Soluciones avanzadas de ciberseguridad para empresas que exigen blindaje total frente a las amenazas del mañana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
